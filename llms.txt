@@ -1,0 +1,18 @@
+# CBD Europa
+
+> Plateforme e-commerce et informative sur le CBD en Europe. Guides, comparatifs et vente de produits CBD conformes aux reglementations europeennes.
+
+## Ce que fait CBD Europa
+
+CBD Europa informe et guide les consommateurs europeens sur le CBD : legislation par pays, produits recommandes, dosages, bienfaits et precautions. Comparatif des meilleures marques CBD europeennes.
+
+## Contenu
+
+- Legislation CBD par pays europeen (France, Belgique, Suisse, Allemagne...)
+- Comparatif produits CBD (huiles, fleurs, capsules, cosmetiques)
+- Guides d'utilisation et dosages
+- Actualites CBD Europe
+
+## Pages
+
+- Homepage : https://cbdeuropa.com
